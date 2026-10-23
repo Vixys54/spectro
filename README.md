@@ -1,6 +1,6 @@
 [README.md](https://github.com/user-attachments/files/33868106/README.md)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vixys54/Spectro/main/readme-github/assets/logo.png" alt="Spectro Logo" width="120"/>
+  <img src="[https://raw.githubusercontent.com/Vixys54/Spectro/main/readme-github/assets/logo.png](https://github.com/Vixys54/spectro/blob/main/logo-spectro.jpg)" alt="Spectro Logo" width="120"/>
 </p>
 
 <h1 align="center">🌀 Spectro</h1>
