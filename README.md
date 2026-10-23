@@ -99,7 +99,7 @@ Para sessões longas, o Spectro usa **context compaction** (estilo Traycer/Claud
 - [Capacitor](https://capacitorjs.com/) (bridge para Android nativo)
 - [Lucide React](https://lucide.dev/) (ícones)
 
-## 🤝 Contribuindo
+/*## 🤝 Contribuindo
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
 
@@ -107,7 +107,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull re
 2. Crie uma branch para sua feature (`git checkout -b feature/minha-feature`)
 3. Commit suas mudanças (`git commit -m 'feat: adiciona minha feature'`)
 4. Push para a branch (`git push origin feature/minha-feature`)
-5. Abra um Pull Request
+5. Abra um Pull Request*/
 
 ## 📄 Licença
 
